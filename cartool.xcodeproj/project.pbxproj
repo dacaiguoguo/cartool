@@ -234,7 +234,7 @@
 		B06C819617934BA30082BD37 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				COMBINE_HIDPI_IMAGES = YES;
+				COMBINE_HIDPI_IMAGES = NO;
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = /usr/local/;
 				FRAMEWORK_SEARCH_PATHS = (
@@ -252,7 +252,7 @@
 		B06C819717934BA30082BD37 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				COMBINE_HIDPI_IMAGES = YES;
+				COMBINE_HIDPI_IMAGES = NO;
 				DEPLOYMENT_LOCATION = YES;
 				DSTROOT = /usr/local/;
 				FRAMEWORK_SEARCH_PATHS = (
